@@ -1,0 +1,8 @@
+Pythonで色々なデータベースを操作する
+http://qiita.com/mima_ita/items/9a5ab3b45c7575776b06
+
+バッチファイルからPythonスクリプトを実行
+http://qiita.com/Kanata/items/05c999726dfd096ee258
+
+pymongo で mongodb アクセス
+http://qiita.com/mzmttks/items/052a8de5e943501b5ce7
